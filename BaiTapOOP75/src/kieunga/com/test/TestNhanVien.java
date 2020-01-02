@@ -39,6 +39,7 @@ public class TestNhanVien {
 			System.out.println("Số sản phẩm nhân viên "+nv1.getTen()+" nhiều hơn nhân viên "+nv2.getTen()+": "+hieu);
 		else
 			System.out.println("Số sản phẩm nhân viên "+nv2.getTen()+" nhiều hơn nhân viên "+nv1.getTen()+": "+(-hieu));
+		 
 	}
 
 }
